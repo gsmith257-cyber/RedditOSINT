@@ -10,7 +10,7 @@ You must also have a client secret and client ID from reddit, which you can find
 https://www.reddit.com/prefs/apps
 
 
-To run simply execute 'python3 RedditProject.py'
+To run simply execute 'python3 RedditStuff.py'
 
 
 This tool has three main modes. The first mode is the search for subreddits based on a search term, or terms, provided. The second feature is user search.
